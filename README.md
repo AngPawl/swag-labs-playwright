@@ -11,3 +11,5 @@ another text to be added
 some new info
 
 SOME INFO
+
+NEW CHANGES HERE
